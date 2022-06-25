@@ -24,5 +24,7 @@
 1. 创建一个maven工程
 2. 引入项目依赖的jar包：spring、pringmvc、mybatis、数据库连接池、驱动包、其他（jstl，servlet-api，junit） 
 3. 引入bootstrap前端框架
-4. 编写ssm整合的关键配置文件：web.xml，spring,springmvc,mybatis，使用mybatis的逆向工程生成对应的bean以及mapper
+4. 编写ssm整合的关键配置文件：web.xml、spring、springmvc、mybatis，使用mybatis的逆向工程生成对应的bean以及mapper
 5. 测试mapper
+6. Tomcat：8.5.81
+7. MySQL：8.0.29
